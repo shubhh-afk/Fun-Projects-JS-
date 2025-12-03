@@ -18,14 +18,14 @@ Each project lives in its own folder with its own HTML, CSS, and JS files.
 
 ## Projects
 
-- [Bubble Game](Bubble%20Game%20JS/)
-- [Button Ripple Effect](Button%20Ripple/)
-- [Expense Tracker](Expense%20Tracker/)
-- [Product Cart](Product%20Cart/)
-- [Random Image Loader](Random%20Image%20Loader/)
-- [Todo With Local Storage](Todo%20With%20Local%20Storage/)
-- [Weather App](Weather%20App/)
+- [Bubble Game](BubbleGame/)
+- [Button Ripple Effect](ButtonRipple/)
+- [Expense Tracker](ExpenseTracker/)
+- [Product Cart](ProductCart/)
+- [Random Image Loader](RandomImageLoader/)
+- [Todo With Local Storage](Todo/)
 - [Snake Game](SnakeGame/)
+- [Weather App](WeatherApp/)
 
 ## Tech Stack
 
