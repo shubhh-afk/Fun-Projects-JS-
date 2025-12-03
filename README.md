@@ -1,68 +1,79 @@
 # Fun Projects in JavaScript
 
-## Description
+A collection of small JavaScript projects that I build as part of my learning journey. I keep adding new projects over time to practice core JS concepts, DOM manipulation, browser APIs, and general problem-solving.  
+Each project lives in its own folder with its own HTML, CSS, and JS files.
 
-This repository contains a collection of fun JavaScript projects that I made through my learning path. Each project is organized in its own folder.
+## Features
 
-1. Navigate to the project folder you want to explore.
+- Beginner to intermediate JS projects  
+- Clean and minimal folder structure  
+- Good for quick references and revision  
+- Uses pure HTML, CSS, and JavaScript
 
-## Usage
+## How to Use
 
-Navigate to the specific project folder and open the `index.html` file in your browser to see the project in action.
+1. Open any project folder.  
+2. Run the `index.html` file directly in your browser.  
+3. Explore the related `script.js` and `style.css` files.
 
 ## Projects
 
-- [Project 1: Bubble Game](Bubble%20Game%20JS/)
-- [Project 2: Button Ripple Effect](Button%20Ripple/)
-- [Project 3: Expense Tracker](Expense%20Tracker/)
-- [Project 4: Product Cart](Product%20Cart/)
-- [Project 5: Random Image Loader](Random%20Image%20Loader/)
-- [Project 6: Todo With Local Storage](Todo%20With%20Local%20Storage/)
-- [Project 7: Weather App](Weather%20App/)
-- [Project 8: Snake Game](SnakeGame/)
+- [Bubble Game](Bubble%20Game%20JS/)
+- [Button Ripple Effect](Button%20Ripple/)
+- [Expense Tracker](Expense%20Tracker/)
+- [Product Cart](Product%20Cart/)
+- [Random Image Loader](Random%20Image%20Loader/)
+- [Todo With Local Storage](Todo%20With%20Local%20Storage/)
+- [Weather App](Weather%20App/)
+- [Snake Game](SnakeGame/)
+
+## Tech Stack
+
+- **JavaScript (Vanilla)**
+- **HTML5**
+- **CSS3**
 
 ## Folder Structure
 
 ```plaintext
-Fun-Projects-JS-
+Fun-Projects-JS
 │
 ├── Bubble Game
 │   ├── index.html
 │   ├── script.js
 │   └── style.css
-|
+│
 ├── Button Ripple
-|   ├── index.html
+│   ├── index.html
 │   ├── script.js
 │   └── style.css
-|
+│
 ├── Expense Tracker
-|   ├── index.html
+│   ├── index.html
 │   ├── script.js
 │   └── style.css
-|
+│
 ├── Product Cart
-|   ├── index.html
+│   ├── index.html
 │   ├── script.js
 │   └── style.css
-|
+│
 ├── Random Image Loader
-|   ├── index.html
+│   ├── index.html
 │   ├── script.js
 │   └── style.css
-|
+│
 ├── Todo With Local Storage
-|   ├── index.html
+│   ├── index.html
 │   ├── script.js
 │   └── style.css
-|
+│
 ├── Weather App
-|   ├── index.html
+│   ├── index.html
 │   ├── script.js
 │   └── style.css
-|
+│
 ├── SnakeGame
 │   ├── index.html
 │   ├── scripts.js
 │   └── style.css
-```
