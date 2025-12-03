@@ -14,30 +14,33 @@ Navigate to the specific project folder and open the `index.html` file in your b
 
 - [Project 1: Bubble Game](Bubble%20Game%20JS/)
 - [Project 2: Button Ripple Effect](Button%20Ripple/)
-- [Project 3: Random Image Loader](Random%20Images%20Loader/)
-- [Project 4: Todo With Local Storage](Todo%20With%20Local%20Storage/)
+- [Project 3: Expense Tracker](Expense%20Tracker/)
+- [Project 4: Product Cart](Product%20Cart/)
+- [Project 5: Random Image Loader](Random%20Image%20Loader/)
+- [Project 6: Todo With Local Storage](Todo%20With%20Local%20Storage/)
+- [Project 7: Weather App](Weather%20App/)
 
 ## Folder Structure
 
 ```plaintext
 Fun-Projects-JS-
 │
-├── Bubble-Game
+├── Bubble Game
 │   ├── index.html
 │   ├── script.js
 │   └── style.css
 |
-├── Button-Ripple
+├── Button Ripple
 |   ├── index.html
 │   ├── script.js
 │   └── style.css
 |
-├── Random-Images-Loader
+├── Expense Tracker
 |   ├── index.html
 │   ├── script.js
 │   └── style.css
 |
-├── Todo-With-Local-Storage
+├── Product Cart
 |   ├── index.html
 │   ├── script.js
 │   └── style.css
