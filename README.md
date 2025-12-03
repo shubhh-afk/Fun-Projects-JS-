@@ -19,6 +19,7 @@ Navigate to the specific project folder and open the `index.html` file in your b
 - [Project 5: Random Image Loader](Random%20Image%20Loader/)
 - [Project 6: Todo With Local Storage](Todo%20With%20Local%20Storage/)
 - [Project 7: Weather App](Weather%20App/)
+- [Project 8: Snake Game](SnakeGame/)
 
 ## Folder Structure
 
@@ -44,5 +45,24 @@ Fun-Projects-JS-
 |   ├── index.html
 │   ├── script.js
 │   └── style.css
-
+|
+├── Random Image Loader
+|   ├── index.html
+│   ├── script.js
+│   └── style.css
+|
+├── Todo With Local Storage
+|   ├── index.html
+│   ├── script.js
+│   └── style.css
+|
+├── Weather App
+|   ├── index.html
+│   ├── script.js
+│   └── style.css
+|
+├── SnakeGame
+│   ├── index.html
+│   ├── scripts.js
+│   └── style.css
 ```
